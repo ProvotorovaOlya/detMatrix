@@ -26,3 +26,16 @@
 Full Stack Developer, студент ОГУ, группа 23ПМИ(б)ППКС
 
 Почта для связи: provotorova.oli@mail.ru
+
+# Фото проекта
+Пример работы приложения на примере матрицы размерности 3х3
+### Окно ввода размерности матрицы
+![главное окно](https://github.com/user-attachments/assets/729a44b2-9856-4b63-b871-359d89c3b30a)
+
+### Окно ввода матрицы
+![2](https://github.com/user-attachments/assets/bf2bb0e3-1177-4b92-9bc2-8e04f6ab1909)
+
+### Окно вывода результата
+![3](https://github.com/user-attachments/assets/10d58873-d676-495c-8427-d2a9ea95ee56)
+
+
