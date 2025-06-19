@@ -2,7 +2,13 @@
 ### Калькулятор для вычисления определителя (детерминанта) матрицы
 
 # Содержание
-[Описание](Описание)
+[https://github.com/ProvotorovaOlya/detMatrix?tab=readme-ov-file#описание](Описание)
+[https://github.com/ProvotorovaOlya/detMatrix?tab=readme-ov-file#актуальность](Актуальность)
+[https://github.com/ProvotorovaOlya/detMatrix?tab=readme-ov-file#цель создания](Цель Создания)
+[https://github.com/ProvotorovaOlya/detMatrix?tab=readme-ov-file#задачи, решаемые ситемой](Задачи, решаемые системой)
+[https://github.com/ProvotorovaOlya/detMatrix?tab=readme-ov-file#область применения и назначение системы](Область применения и назначение системы)
+[https://github.com/ProvotorovaOlya/detMatrix?tab=readme-ov-file#фото проекта](Фото проекта)
+[https://github.com/ProvotorovaOlya/detMatrix?tab=readme-ov-file#команда проекта](Команда проекта)
 
 # Описание
 Программа detMatrix представляет собой инструмент, который обучает пользователей основам вычисления определителей матриц различного размера. Она включает пошаговое решение для нахождения определителя (детерминанта) матрицы, которую задаёт пользователь.
